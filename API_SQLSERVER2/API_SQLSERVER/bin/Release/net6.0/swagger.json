@@ -1,0 +1,119 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "API_SQLSERVER, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Principal/AlmacenarSQLServer": {
+      "get": {
+        "tags": [
+          "Principal"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "RazonSocial",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "RFC",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "Telefono",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "Pais",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "Ciudad",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "Calle",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "No",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "Correo",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "Monto",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "query",
+            "name": "Fecha",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "MetodoDePago",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "/Principal/ConsultarSQLServer": {
+      "get": {
+        "tags": [
+          "Principal"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "ID",
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Principal/ConsultarTodo": {
+      "get": {
+        "tags": [
+          "Principal"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  }
+}

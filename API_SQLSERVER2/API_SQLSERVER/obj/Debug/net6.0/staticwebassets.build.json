@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v4Yuv9Pw6InC6uxuNbhDXSwf72ciipCJxJwb0wCLchs=",
+  "Source": "API_SQLSERVER",
+  "BasePath": "_content/API_SQLSERVER",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

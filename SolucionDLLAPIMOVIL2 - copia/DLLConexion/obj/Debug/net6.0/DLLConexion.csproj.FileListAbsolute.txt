@@ -1,0 +1,12 @@
+C:\Users\CESAR\source\repos\SolucionDLLAPIMOVIL\DLLConexion\bin\Debug\net6.0\DLLConexion.deps.json
+C:\Users\CESAR\source\repos\SolucionDLLAPIMOVIL\DLLConexion\bin\Debug\net6.0\DLLConexion.dll
+C:\Users\CESAR\source\repos\SolucionDLLAPIMOVIL\DLLConexion\bin\Debug\net6.0\DLLConexion.pdb
+C:\Users\CESAR\source\repos\SolucionDLLAPIMOVIL\DLLConexion\obj\Debug\net6.0\DLLConexion.csproj.AssemblyReference.cache
+C:\Users\CESAR\source\repos\SolucionDLLAPIMOVIL\DLLConexion\obj\Debug\net6.0\DLLConexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CESAR\source\repos\SolucionDLLAPIMOVIL\DLLConexion\obj\Debug\net6.0\DLLConexion.AssemblyInfoInputs.cache
+C:\Users\CESAR\source\repos\SolucionDLLAPIMOVIL\DLLConexion\obj\Debug\net6.0\DLLConexion.AssemblyInfo.cs
+C:\Users\CESAR\source\repos\SolucionDLLAPIMOVIL\DLLConexion\obj\Debug\net6.0\DLLConexion.csproj.CoreCompileInputs.cache
+C:\Users\CESAR\source\repos\SolucionDLLAPIMOVIL\DLLConexion\obj\Debug\net6.0\DLLConexion.dll
+C:\Users\CESAR\source\repos\SolucionDLLAPIMOVIL\DLLConexion\obj\Debug\net6.0\refint\DLLConexion.dll
+C:\Users\CESAR\source\repos\SolucionDLLAPIMOVIL\DLLConexion\obj\Debug\net6.0\DLLConexion.pdb
+C:\Users\CESAR\source\repos\SolucionDLLAPIMOVIL\DLLConexion\obj\Debug\net6.0\ref\DLLConexion.dll
